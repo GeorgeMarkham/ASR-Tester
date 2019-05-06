@@ -1,0 +1,11 @@
+{
+  "name": "ASR-Tester",
+  "version": "0.0.1",
+  "main": "server.js",
+  "repository": "https://github.com/GeorgeMarkham/ASR-Tester.git",
+  "author": "GeorgeMarkham <george@gmarkham.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
